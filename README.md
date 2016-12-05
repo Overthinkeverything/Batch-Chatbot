@@ -5,7 +5,8 @@ GET STARTED:
 The bot will learn from you what it can answer depending on your questions.
 NOTE: This bot will talk to you in english , but it writes in german.
 
-1.First it will give you a message. You just have to write smth and hit enter.
+1.Download this project , open the folder and run JARVIS.bat.
+First it will give you a message. You just have to write smth and hit enter.
 2.Now the bot is asking for a password. It's "123" but you can change it very easy(just edit the code where I wrote "CHANGE PASSWORD HERE".
 3.It will ask you if you want to teach it smth or just talk with it.
 
